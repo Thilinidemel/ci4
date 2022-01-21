@@ -1,0 +1,37 @@
+CRITICAL - 2022-01-21 08:53:29 --> Call to a member function query() on null
+#0 C:\wamp64\www\ci4\system\CodeIgniter.php(825): App\Controllers\ViewImages->index()
+#1 C:\wamp64\www\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ViewImages))
+#2 C:\wamp64\www\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#5 {main}
+CRITICAL - 2022-01-21 08:53:53 --> Call to a member function query() on null
+#0 C:\wamp64\www\ci4\system\CodeIgniter.php(825): App\Controllers\ViewImages->index()
+#1 C:\wamp64\www\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ViewImages))
+#2 C:\wamp64\www\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#5 {main}
+CRITICAL - 2022-01-21 09:53:55 --> A non-numeric value encountered
+#0 C:\wamp64\www\ci4\app\Controllers\Upload.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\wamp64\\www\\c...', 38, Array)
+#1 C:\wamp64\www\ci4\system\CodeIgniter.php(825): App\Controllers\Upload->upload()
+#2 C:\wamp64\www\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Upload))
+#3 C:\wamp64\www\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#6 {main}
+CRITICAL - 2022-01-21 09:54:15 --> A non-numeric value encountered
+#0 C:\wamp64\www\ci4\app\Controllers\Upload.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\wamp64\\www\\c...', 38, Array)
+#1 C:\wamp64\www\ci4\system\CodeIgniter.php(825): App\Controllers\Upload->upload()
+#2 C:\wamp64\www\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Upload))
+#3 C:\wamp64\www\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\wamp64\www\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#6 {main}
+CRITICAL - 2022-01-21 09:54:18 --> Call to a member function query() on null
+#0 C:\wamp64\www\ci4\system\CodeIgniter.php(825): App\Controllers\ViewImages->index()
+#1 C:\wamp64\www\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ViewImages))
+#2 C:\wamp64\www\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#5 {main}

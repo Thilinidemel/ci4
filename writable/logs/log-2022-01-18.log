@@ -1,0 +1,24 @@
+CRITICAL - 2022-01-18 05:48:58 --> Call to a member function helper() on null
+#0 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Upload->index()
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Upload))
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 05:49:13 --> Call to a member function helper() on null
+#0 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Upload->index()
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Upload))
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 05:52:14 --> Call to a member function helper() on null
+#0 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Upload->index()
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Upload))
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 05:59:41 --> Call to a member function helper() on null
+#0 C:\xampp\htdocs\ci4\system\CodeIgniter.php(825): App\Controllers\Upload->index()
+#1 C:\xampp\htdocs\ci4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Upload))
+#2 C:\xampp\htdocs\ci4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
